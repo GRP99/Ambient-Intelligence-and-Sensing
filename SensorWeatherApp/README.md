@@ -1,0 +1,2 @@
+# Monitoring of Environmental Parameters
+Public APIs (ex.: OpenWeatherMaps) were used in order to capture data referring to the temperature, humidity and ultraviolet index of a certain region. The system, using the collected data, is capable of issuing alerts/notifications due to situations that could be adverse such as high temperatures or high ultraviolet index, for example. It should also be possible to view the data;

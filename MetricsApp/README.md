@@ -1,0 +1,2 @@
+# Monitoring of Keyboard/Mouse Parameters
+In a first phase, the group collected data from sensors such as the keyboard and/or mouse. Then, it was intended that each group develop different metrics (number of keys pressed per minute, distance covered by mouse movement, etc.) for the set of data collected. A frontend was developed that allowed to visualize the developed metrics (building KPIs, graphs, etc.).
